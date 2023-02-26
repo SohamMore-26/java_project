@@ -33,7 +33,6 @@ class test
     }
 }
 
-//write a class with a function to do all arithmetic operations
 class arithmetic
 {
     public int add(int x, int y)
